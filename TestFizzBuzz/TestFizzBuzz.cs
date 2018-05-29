@@ -16,10 +16,12 @@ namespace UnitTestKataFIzzBuzz
                 if (x % 15 == 0)
                 {
                     Assert.AreEqual("FizzBuzz", KataFizzBuzz.KataFizzBuzz.fizzBuzz(x));
-                }else if (x % 3 == 0)
+                }
+                else if (x % 3 == 0)
                 {
                     Assert.AreEqual("Fizz", KataFizzBuzz.KataFizzBuzz.fizzBuzz(x));
-                }else if (x % 5 == 0)
+                }
+                else if (x % 5 == 0)
                 {
                     Assert.AreEqual("Buzz", KataFizzBuzz.KataFizzBuzz.fizzBuzz(x));
                 }

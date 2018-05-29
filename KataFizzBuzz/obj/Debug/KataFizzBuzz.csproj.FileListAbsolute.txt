@@ -1,0 +1,6 @@
+C:\Users\jgarcia\source\repos\KataFizzBuzz\KataFizzBuzz\bin\Debug\KataFizzBuzz.exe.config
+C:\Users\jgarcia\source\repos\KataFizzBuzz\KataFizzBuzz\bin\Debug\KataFizzBuzz.exe
+C:\Users\jgarcia\source\repos\KataFizzBuzz\KataFizzBuzz\bin\Debug\KataFizzBuzz.pdb
+C:\Users\jgarcia\source\repos\KataFizzBuzz\KataFizzBuzz\obj\Debug\KataFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\jgarcia\source\repos\KataFizzBuzz\KataFizzBuzz\obj\Debug\KataFizzBuzz.exe
+C:\Users\jgarcia\source\repos\KataFizzBuzz\KataFizzBuzz\obj\Debug\KataFizzBuzz.pdb
